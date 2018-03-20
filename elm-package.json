@@ -1,0 +1,25 @@
+{
+  "version": "1.0.0",
+  "summary": "Transaction visualization based on PSD 2.0 data",
+  "repository": "https://github.com/veoy/traviz.git",
+  "license": "ISC",
+  "source-directories": [
+    "src"
+  ],
+  "exposed-modules": [],
+  "dependencies": {
+    "NoRedInk/elm-decode-pipeline": "3.0.0 <= v < 4.0.0",
+    "elm-community/random-extra": "2.0.0 <= v < 3.0.0",
+    "elm-lang/core": "5.0.0 <= v < 6.0.0",
+    "elm-lang/html": "2.0.0 <= v < 3.0.0",
+    "elm-lang/svg": "2.0.0 <= v < 3.0.0",
+    "elm-lang/dom": "1.1.1 <= v < 1.2.0",
+    "elm-lang/http": "1.0.0 <= v < 2.0.0",
+    "elm-community/json-extra": "2.1.0 <= v < 3.0.0",
+    "lukewestby/elm-http-builder": "5.1.0 <= v < 6.0.0",
+    "terezka/elm-plot":"5.0.1 <= v < 6.0.0",
+    "justinmimbs/elm-date-extra":"2.0.3 <= v < 3.0.0",
+    "mdgriffith/style-elements": "3.3.0 <= v < 3.4.0"
+  },
+  "elm-version": "0.18.0 <= v < 0.19.0"
+}

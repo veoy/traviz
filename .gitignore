@@ -1,0 +1,10 @@
+# elm-package generated files
+elm-stuff/
+repl-temp-*
+elm.js
+node_modules/
+.DS_Store
+*/.DS_Store
+.idea
+StaticTransactions.elm
+package-lock.json
